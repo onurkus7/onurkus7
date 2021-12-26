@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **TalentHub Java Bootcamp at n11.com**
 
-- 🌱 I’m currently learning **Go and Spring**
+- 🌱 I’m currently learning **Java Spring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
