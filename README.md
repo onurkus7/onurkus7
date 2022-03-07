@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **TalentHub Java Bootcamp at n11.com**
+<!--- 🔭 I’m currently working on **TalentHub Java Bootcamp at n11.com**-->
 
 - 🌱 I’m currently learning **Java Spring**
 
